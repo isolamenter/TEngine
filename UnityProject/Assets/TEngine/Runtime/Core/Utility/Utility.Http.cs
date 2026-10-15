@@ -14,7 +14,7 @@ namespace TEngine
         /// 提供HTTP相关操作的实用工具类。
         /// <para>封装了常用的GET/POST请求、文件下载、多媒体资源获取等功能。</para>
         /// </summary>
-        public static class Http
+        public static partial class Http
         {
             /// <summary>
             /// GET请求与获取结果。
